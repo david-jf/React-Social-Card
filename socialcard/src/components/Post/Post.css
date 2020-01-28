@@ -29,10 +29,12 @@
   background-color: #efefef;
 }
 .Post-image img {
-  display: block;
+  display: inline;
   width: 100%;
+  
 }
 .Post-caption {
+  display: flex;
   padding: 16px 16px;
 }
 .Post-caption strong {
